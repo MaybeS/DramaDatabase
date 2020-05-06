@@ -6,6 +6,8 @@ Includes columns below:
 ```
 
 ## Namuwiki Data frame
+$shape: 861 \times 8$
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -81,6 +83,7 @@ Includes columns below:
 
 
 ## Wikipedia Data frame
+$shape: 1773 \times 8$
 
 <table border="1" class="dataframe">
   <thead>
