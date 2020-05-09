@@ -5,6 +5,16 @@ Includes columns below:
 방송 기간, 방송 횟수, 장르, 채널, 제작사, 극본, 출연자
 ```
 
+## Dataframe from Wiki dump
+
+### Wekipedia
+
+See also `labs/wikipedia.ipynb` and put dump file to `data/kowiki.xml`.
+
+### Namuwiki
+
+See also `labs/namuwiki.ipynb` and put dump file to `data/namuwiki.json`.
+
 ## Namuwiki Data frame
 $shape: 861 \times 8$
 
