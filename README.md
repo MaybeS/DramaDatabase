@@ -15,85 +15,9 @@ See also `labs/wikipedia.ipynb` and put dump file to `data/kowiki.xml`.
 
 See also `labs/namuwiki.ipynb` and put dump file to `data/namuwiki.json`.
 
-## Namuwiki Data frame
-$shape: 861 \times 8$
-
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>title</th>
-      <th>방송 기간</th>
-      <th>방송 횟수</th>
-      <th>장르</th>
-      <th>채널</th>
-      <th>제작사</th>
-      <th>극본</th>
-      <th>출연자</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>하녀들(드라마)</td>
-      <td>2014년 12월 12일 ~ 2015년 3월 28일</td>
-      <td>20부작</td>
-      <td></td>
-      <td>JTBC</td>
-      <td>드라마하우스</td>
-      <td>조현경</td>
-      <td>오지호(배우), 정유미(1984), 김동욱(배우), 이시아(배우) 外</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>순정에 반하다</td>
-      <td>2015년 4월 3일 ~ 2015년 5월 23일</td>
-      <td>16부작</td>
-      <td></td>
-      <td>JTBC</td>
-      <td>손기원, 김운호</td>
-      <td>유희경</td>
-      <td>정경호(1983), 김소연(배우), 윤현민, 진구 外</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>사랑하는 은동아</td>
-      <td>2015년 5월 29일 ~ 2015년 7월 18일</td>
-      <td>16부작</td>
-      <td>멜로</td>
-      <td>JTBC</td>
-      <td>드라마하우스</td>
-      <td>백미경</td>
-      <td>주진모(1974), 김사랑 外</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>라스트(드라마)</td>
-      <td>2015년 7월 24일 ~ 2015년 9월 12일</td>
-      <td>16부작</td>
-      <td></td>
-      <td>JTBC</td>
-      <td>드라마하우스, 에이스토리</td>
-      <td>한지훈</td>
-      <td>윤계상, 이범수, 서예지, 박예진, 박원상 外</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>디데이</td>
-      <td>2015년 9월 18일 ~ 2015년 11월 21일</td>
-      <td>20부작</td>
-      <td>자연재해</td>
-      <td>JTBC</td>
-      <td>SM C&amp;C</td>
-      <td>황은경</td>
-      <td>김영광(배우), 정소민, 하석진, 윤주희, 이경영(1960), 차인표 外</td>
-    </tr>
-  </tbody>
-</table>
-
-
-## Wikipedia Data frame
-$shape: 1773 \times 8$
+## Dataframe
+Dataframe`results/results.csv`. 
+shape: 1912 &times; 9
 
 <table border="1" class="dataframe">
   <thead>
